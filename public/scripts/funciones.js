@@ -1,0 +1,1 @@
+alert ('bienvenido al la pagina web de pintores');

@@ -1,0 +1,31 @@
+body, a{
+    background-color: #d400ff;
+    color: rgb(255, 255, 255);
+    margin-right: 100px;
+    margin-left: 100px;
+    }
+    h1{
+        text-align: center;
+        font-size: 300%;
+    }
+    footer{
+        font-size: larger;
+     margin: 10px;
+        text-align: justify;
+    }
+    .got{
+        width: 140px;
+        height: 220px;
+        margin:auto;
+    }hr{
+        border: 3px solid rgb(92, 0, 145); border-radius: 300px/10px; height: 0px; text-align: center;
+    } 
+    .main{
+        margin-right: 100px;
+        margin-left: 100px;
+        margin-top: 50px;
+        
+    }
+    table{
+        margin: auto;
+    }
