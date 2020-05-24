@@ -14,8 +14,8 @@ body, a{
         text-align: justify;
     }
     .got{
-        width: 140px;
-        height: 220px;
+        width: 100px;
+        height: 200px;
         margin:auto;
     }hr{
         border: 3px solid rgb(92, 0, 145); border-radius: 300px/10px; height: 0px; text-align: center;
